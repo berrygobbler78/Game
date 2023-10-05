@@ -1,0 +1,16 @@
+Character Stats
+    5 stats: strength, endurance, charisma, intelligence, dexterity
+    Strength: increase damage, protection (dmg, protection)
+    endurance: attack turns are longer (attack turn)
+    charisma: more loot and stuff from npcs (% of getting higher loot)
+    intelligence: magic stuff works better (magicDmg)
+    dexterity: higher dodge and attack a little faster (dodge, atkSpeed)
+    
+Weapons
+    Enchantment System
+    Gallowglass (sword)
+    Kukri (machete)
+    Trident (pitchfork)
+    Limited capacity ranged (bows w/ arrows, throwing stars, throwing axes, etc.)
+    Epéé (small sword)
+    Bō (staff)
